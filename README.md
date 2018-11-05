@@ -14,6 +14,7 @@ _This project was done as a requirement for [Udacity's Front-End Web Developer N
 This is a very simple web app that allows its user to review the information of various restaurants in select boroughs in New York City. (The locations were preselected by whoever made this project.)
 
 *How to Use*
+
 Users can select restaurants to review by (1) selecting a neighborhood and (2) cuisine from the dropdown menus; they can select a marker location from the map; or they can scroll down and click on "_View Details_" to read more about a specific restaurant. 
 
 On the Restaurant pages, each venue includes a map of its location, hours of business, address, and a few reviews.
